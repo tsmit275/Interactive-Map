@@ -1,1 +1,2 @@
 # Interactive-Map
+This assignment involved creating an interactive map for users to look up 4 local destinations including coffee shops, donut shops, resturants that serve pasta, or a gym in their area. 
